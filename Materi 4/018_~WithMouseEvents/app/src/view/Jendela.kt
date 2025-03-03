@@ -42,7 +42,7 @@ class Jendela : Application() {
 
         val scene = Scene(stackPane, 600.0, 200.0)
 
-        primaryStage.title = "Event Handler With Anonymous Class (Kotlin UI JavaFX) - Nabhan Alzam Faturohman"
+        primaryStage.title = "Mouse Events (Kotlin UI JavaFX) - Nabhan Alzam Faturohman"
         primaryStage.scene = scene
         primaryStage.show()
     }
